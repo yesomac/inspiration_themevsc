@@ -14,8 +14,8 @@
         "Inspiration",
         "Inspiration-Green",
         "Inspiration-Blue",
-        "Classic Terminal",
-        "Classic Terminal Gray"
+        "Inspiration-Classic Terminal",
+        "Inspiration-Classic Terminal Gray"
     ],
     "contributes": {
         "themes": [
@@ -35,12 +35,12 @@
                 "path": "./themes/Green&Blue-color-B-theme.json"
             },
             {
-                "label": "Classic Terminal",
+                "label": "Inspiration-Classic Terminal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/classic_terminal-color-theme.json"
             },
             {
-                "label": "Classic Terminal Gray",
+                "label": "Inspiration-Classic Terminal Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/classic_terminal-gray-color-theme.json"
             }
