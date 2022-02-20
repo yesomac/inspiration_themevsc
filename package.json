@@ -2,7 +2,7 @@
     "name": "inspiration",
     "displayName": "inspiration",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -13,7 +13,9 @@
         "Themes",
         "Inspiration",
         "Inspiration-Green",
-        "Inspiration-Blue"
+        "Inspiration-Blue",
+        "Classic Terminal",
+        "Classic Terminal Gray"
     ],
     "contributes": {
         "themes": [
@@ -31,6 +33,16 @@
                 "label": "Inspiration-Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Green&Blue-color-B-theme.json"
+            },
+            {
+                "label": "Classic Terminal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/classic_terminal-color-theme.json"
+            },
+            {
+                "label": "Classic Terminal Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/classic_terminal-gray-color-theme.json"
             }
         ]
     },
