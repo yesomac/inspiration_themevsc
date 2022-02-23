@@ -12,6 +12,4 @@
 
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/white.png?raw=true)
 
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/greenII.png?raw=true)
-
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/greenli.png?raw=true)
