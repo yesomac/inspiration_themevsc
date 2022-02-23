@@ -14,4 +14,4 @@
 
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/greenli.png?raw=true)
 
-![This is an image]()
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/pink.png?raw=true)
