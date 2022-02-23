@@ -15,7 +15,9 @@
         "Inspiration-Green",
         "Inspiration-Blue",
         "Inspiration-Classic Terminal",
-        "Inspiration-Classic Terminal Gray"
+        "Inspiration-Classic Terminal Gray",
+        "Inspiration-WhiteSpace",
+        "Inspiration-WhiteSpace-Green Kingdom"
     ],
     "contributes": {
         "themes": [
@@ -43,6 +45,16 @@
                 "label": "Inspiration-Classic Terminal Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/classic_terminal-gray-color-theme.json"
+            },
+            {
+                "label": "Inspiration-WhiteSpace",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpace-color-theme.json"
+            },
+            {
+                "label": "Inspiration-WhiteSpace-Green Kingdom",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceGreen-color-theme.json"
             }
         ]
     },
