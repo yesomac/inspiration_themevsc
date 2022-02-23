@@ -60,6 +60,8 @@
 
 		
 		"editorSuggestWidget.selectedBackground": "#fff",
+		"editorSuggestWidget.focusHighlightForeground": "#26332c",
+		"editorSuggestWidget.selectedForeground": "#000",
 		"editorSuggestWidget.background": "#c5c4c4",
 		"editorSuggestWidget.highlightForeground": "#033110",
 		"editor.findMatchBackground": "#85caf8a4",
