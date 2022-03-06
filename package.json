@@ -18,7 +18,8 @@
         "Inspiration-Classic Terminal Gray",
         "Inspiration-WhiteSpace",
         "Inspiration-WhiteSpace-Green Kingdom",
-        "Inspiration-PinkSpace"
+        "Inspiration-PinkSpace",
+        "Inspiration-Morita"
     ],
     "contributes": {
         "themes": [
@@ -46,6 +47,11 @@
                 "label": "Inspiration-Classic Terminal Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/classic_terminal-gray-color-theme.json"
+            },
+            {
+                "label": "Inspiration-Morita",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Inspiration-morita-color-theme.json"
             },
             {
                 "label": "Inspiration-WhiteSpace",
