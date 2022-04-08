@@ -26,3 +26,6 @@
 
 ## Inspiration Morita
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/morita.png?raw=true)
+
+## Inspiration Yellow Shade
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/InspirationShade.png?raw=true)
