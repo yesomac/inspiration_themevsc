@@ -21,7 +21,9 @@
         "Inspiration-PinkSpace",
         "Inspiration-Morita",
         "Inspiration Yellow Shade",
-        "Inspiration Yellow"
+        "Inspiration Yellow",
+        "Inspiration Blue Haze",
+        "Inspiration Blue Haze II"
     ],
     "contributes": {
         "themes": [
@@ -79,6 +81,16 @@
                 "label": "Inspiration Yellow Shade",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-yellow-shade-color-theme.json"
+            },
+            {
+                "label": "Inspiration Blue Haze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-blue-haze-color-thema.json"
+            },
+            {
+                "label": "Inspiration Blue Haze II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-blue-hazeII-color-theme.json"
             }
         ]
     },
