@@ -19,7 +19,8 @@
         "Inspiration-WhiteSpace",
         "Inspiration-WhiteSpace-Green Kingdom",
         "Inspiration-PinkSpace",
-        "Inspiration-Morita"
+        "Inspiration-Morita",
+        "Inspiration Yellow Shade"
     ],
     "contributes": {
         "themes": [
@@ -67,6 +68,16 @@
                 "label": "Inspiration-PinkSpace",
                 "uiTheme": "vs",
                 "path": "./themes/PinkSpace-color-theme.json"
+            },
+            {
+                "label": "Inspiration Blue Kingdom",
+                "uiTheme": "vs",
+                "path": "./themes/inspiration-blue-kingdom-theme.json"
+            },
+            {
+                "label": "Inspiration Yellow Shade",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiratiion-BlueGray-color-theme.json"
             }
         ]
     },
