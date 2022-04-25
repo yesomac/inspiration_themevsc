@@ -11,7 +11,7 @@
         "statusBar.noFolderBackground": "#000804",
         "statusBar.debuggingBackground": "#011627",
         "sideBarSectionHeader.background": "#011627",
-        "sideBarSectionHeader.foreground": "#011627",
+        "sideBarSectionHeader.foreground": "#fff",
         "tab.activeBackground": "#011220",
         "tab.inactiveBackground": "#011627d0",
         "tab.hoverBackground": "#001d35",

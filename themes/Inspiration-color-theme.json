@@ -53,7 +53,7 @@
 		"terminal.ansiWhite":"#A89984",
 		"terminal.ansiYellow":"#FAC03B",
 		
-		"sideBarSectionHeader.foreground": "#0D120C",
+		"sideBarSectionHeader.foreground": "#bdfdd0",
 		"tab.activeBorder": "#000708",
 		"tab.activeForeground": "#f5fdf4",
 		"editorGroupHeader.tabsBackground": "#000708",
