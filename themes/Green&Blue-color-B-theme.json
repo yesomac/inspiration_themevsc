@@ -150,7 +150,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#FFE6F2"
+                "foreground": "#30e682"
             }
         },
         {
@@ -163,7 +163,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#30e682"
             }
         },
         {
