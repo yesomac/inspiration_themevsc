@@ -30,7 +30,7 @@
 ## Inspiration Yellow Shade
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/InspirationShade.png?raw=true)
 
-##Inspiration Blue Haze & Blue Haze II
+## Inspiration Blue Haze & Blue Haze II
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-blue-haze.png?raw=true)
 #
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-blue-hazeII.png?raw=true)
