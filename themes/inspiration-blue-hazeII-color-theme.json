@@ -12,11 +12,15 @@
 		"sideBar.background": "#04080E",
 		"sideBarSectionHeader.background": "#04080E",
 		"sideBarSectionHeader.foreground": "#8ec3ff",
-		"tab.activeBackground": "#04080E",
+		"tab.activeBackground": "#01122b",
 		"tab.inactiveBackground": "#04080E",
 		"tab.hoverBackground": "#05144796",
-		"tab.activeBorder": "#023275",
+		"tab.activeBorder": "#04080E",
 		"tab.activeForeground": "#ecf0f5",
+
+		"tab.activeBorderTop": "#023275",
+		"tab.border": "#04080E",
+
 		"activityBar.background": "#04080E",
 		"titleBar.activeBackground": "#04080E",
 		"editorGroupHeader.tabsBackground": "#04080E",

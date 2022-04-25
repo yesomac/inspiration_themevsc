@@ -29,6 +29,8 @@
 		"tab.inactiveBackground": "#000708",
 		"tab.hoverBackground": "#022831",
 		"titleBar.activeBackground": "#022125",
+		"tab.activeBorderTop": "#3ECCCA",
+		"tab.border": "#000708",
 
 		"terminal.foreground": "#a3e8f1",
 		"terminal.background":"#000708",
@@ -52,7 +54,7 @@
 		"terminal.ansiYellow":"#FAC03B",
 		
 		"sideBarSectionHeader.foreground": "#0D120C",
-		"tab.activeBorder": "#3ECCCA",
+		"tab.activeBorder": "#000708",
 		"tab.activeForeground": "#f5fdf4",
 		"editorGroupHeader.tabsBackground": "#000708",
 		"editor.selectionBackground": "#035c2156",

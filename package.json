@@ -2,7 +2,7 @@
     "name": "inspiration",
     "displayName": "inspiration",
     "description": "",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -23,8 +23,7 @@
         "Inspiration Yellow Shade",
         "Inspiration Yellow",
         "Inspiration Blue Haze",
-        "Inspiration Blue Haze II",
-        "Inspiration Orange"
+        "Inspiration Blue Haze II"
     ],
     "contributes": {
         "themes": [
@@ -92,11 +91,6 @@
                 "label": "Inspiration Blue Haze II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-blue-hazeII-color-theme.json"
-            },
-            {
-                "label": "Inspiration Orange",
-                "uiTheme": "vs-dark",
-                "path": "./themes/inspiration-orange-color-theme.json"
             }
         ]
     },
