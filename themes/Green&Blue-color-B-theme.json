@@ -12,11 +12,15 @@
         "statusBar.debuggingBackground": "#011627",
         "sideBarSectionHeader.background": "#011627",
         "sideBarSectionHeader.foreground": "#011627",
-        "tab.activeBackground": "#011627",
+        "tab.activeBackground": "#011220",
         "tab.inactiveBackground": "#011627d0",
         "tab.hoverBackground": "#001d35",
-        "tab.activeBorder": "#3ECCCA",
+        "tab.activeBorder": "#011627d0",
         "tab.activeForeground": "#9bd0fc",
+        
+        "tab.activeBorderTop": "#30e682",
+        "tab.border": "#011627d0",
+
         "activityBar.background": "#011627",
         "titleBar.activeBackground": "#011627",
         "editorGroupHeader.tabsBackground": "#011627",
