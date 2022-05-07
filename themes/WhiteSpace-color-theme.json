@@ -9,7 +9,7 @@
 		"activityBarBadge.background": "#000",
 		"sideBarTitle.foreground": "#000",
 		"sideBar.background": "#ffffff00",
-		"list.hoverBackground": "#eaf7ff",
+		"list.hoverBackground": "#ddf2ff",
 		"sideBarSectionHeader.background": "#fff",
 		"editorLineNumber.foreground": "#8f8f8f",
 		"editorLineNumber.activeForeground": "#000",
@@ -26,9 +26,13 @@
 		"menu.selectionBackground": "#000",
 		"menu.foreground": "#000",
 		
-		"tab.activeBackground": "#fff",
+		"tab.activeBackground": "#0000001a",
 		"tab.inactiveBackground": "#fff",
 		"tab.hoverBackground": "#0000001a",
+		"tab.activeBorder": "#fff",
+		"tab.border": "#fff",
+		"tab.activeBorderTop": "#000",
+		"tab.activeForeground": "#000",
 		"titleBar.activeBackground": "#fff",
 
 		"terminal.background": "#fff",
@@ -37,8 +41,6 @@
 
 		
 		"sideBarSectionHeader.foreground": "#000408",
-		"tab.activeBorder": "#000",
-		"tab.activeForeground": "#000",
 		
 		"editorGroupHeader.tabsBackground": "#fff",
 
@@ -92,13 +94,25 @@
 		"terminal.ansiYellow": "#FAC03B",
 
 		"editor.hoverHighlightBackground": "#0000002c",
-		"editorHoverWidget.background": "#0000002c",
+		"editorHoverWidget.background": "#ddd",
 		"list.activeSelectionBackground": "#0000002c",
 
 		"activityBarBadge.foreground": "#fff",
 		"focusBorder": "#424242",
 
 		"terminal.ansiBlack": "#1D2021",
+
+		"sideBar.border": "#ddd",
+		"sideBarSectionHeader.border": "#ddd",
+		"activityBar.border": "#ddd",
+		"menu.border": "#000",
+		"panel.border": "#ddd",
+		"titleBar.border": "#ddd",
+		"tab.hoverBorder": "#ddd",
+		"statusBar.border": "#ddd",
+		"notifications.border": "#ddd",
+		"editorCursor.foreground": "#ddd",
+		"terminalCursor.foreground": "#ddd"
 	},
 	"tokenColors": [
 		{

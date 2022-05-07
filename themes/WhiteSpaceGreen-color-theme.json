@@ -26,9 +26,13 @@
 		"menu.selectionBackground": "#7cc992",
 		"menu.foreground": "#01270c",
 		
-		"tab.activeBackground": "#e0fde8",
+		"tab.activeBackground": "#b7e6c4",
 		"tab.inactiveBackground": "#e0fde8",
 		"tab.hoverBackground": "#c1fcd0",
+		"tab.activeBorder": "#e0fde8",
+		"tab.border": "#e0fde8",
+		"tab.activeBorderTop": "#028327",
+		"tab.activeForeground": "#01200a",
 		"titleBar.activeBackground": "#e7ffed",
 
 		"terminal.background": "#d3eeda",
@@ -37,8 +41,6 @@
 
 		
 		"sideBarSectionHeader.foreground": "#000408",
-		"tab.activeBorder": "#028327",
-		"tab.activeForeground": "#01200a",
 		
 		"editorGroupHeader.tabsBackground": "#e0fde8",
 
@@ -76,7 +78,7 @@
 		"terminal.ansiBrightBlack": "#665C54",
 		"terminal.ansiBrightBlue": "#0D6678",
 		"terminal.ansiBrightCyan": "#8BA59B",
-		"terminal.ansiBrightGreen": "#0687ff",
+		"terminal.ansiBrightGreen": "#626d65",
 		"terminal.ansiBrightMagenta": "#8F4673",
 		"terminal.ansiBrightRed": "#FB543F",
 		"terminal.ansiBrightWhite": "#FDF4C1",
@@ -97,6 +99,18 @@
 		"focusBorder": "#424242",
 
 		"terminal.ansiBlack": "#1D2021",
+
+		"sideBar.border": "#b0e9be",
+		"sideBarSectionHeader.border": "#b0e9be",
+		"activityBar.border": "#b0e9be",
+		"menu.border": "#b0e9be",
+		"panel.border": "#b0e9be",
+		"titleBar.border": "#b0e9be",
+		"tab.hoverBorder": "#b0e9be",
+		"statusBar.border": "#b0e9be",
+		"notifications.border": "#b0e9be",
+		"editorCursor.foreground": "#b0e9be",
+		"terminalCursor.foreground": "#279242"
 	},
 	"tokenColors": [
 		{

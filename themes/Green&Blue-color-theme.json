@@ -44,7 +44,7 @@
 		"editorSuggestWidget.background": "#030a0560",
 		"editor.findMatchBackground": "#025e2b59",
 		"editor.findMatchHighlightBackground": "#0D120C",
-		"list.hoverBackground": "#0D120C",
+		"list.hoverBackground": "#013b1579",
 		"list.inactiveSelectionBackground": "#013f22",
 		"settings.textInputBackground": "#0D120C",
 		"settings.checkboxBackground": "#0D120C",
@@ -69,9 +69,22 @@
 		"terminal.ansiRed": "#FB543F",
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#FAC03B",
-		"editor.hoverHighlightBackground": "#000f0579",
-		"editorHoverWidget.background": "#000F05",
-		"list.activeSelectionBackground": "#000F05"
+		"editor.hoverHighlightBackground": "#013b15c4",
+		"editorHoverWidget.background": "#013b15",
+		"list.activeSelectionBackground": "#013b15b6",
+
+		"sideBar.border": "#192e15",
+		"sideBarSectionHeader.border": "#192e15",
+		"activityBar.border": "#192e15",
+		"activityBar.activeBorder": "#192e15",
+		"menu.border": "#0f3a06",
+		"panel.border": "#192e15",
+		"titleBar.border": "#192e15",
+		"tab.hoverBorder": "#192e15",
+		"statusBar.border": "#192e15",
+		"notifications.border": "#192e15",
+		"editorCursor.foreground": "#192e15",
+		"terminalCursor.foreground": "#192e15"
 	},
 	"tokenColors": [
 		{
