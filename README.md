@@ -1,5 +1,9 @@
 # Inspiration
 
+New Theme
+## Inspiration Neutral
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/Inspiration-Neutral.png?raw=true)
+
 ## Inspiration
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration.png?raw=true)
 
