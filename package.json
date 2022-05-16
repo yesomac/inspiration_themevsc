@@ -23,7 +23,8 @@
         "Inspiration Yellow Shade",
         "Inspiration Yellow",
         "Inspiration Blue Haze",
-        "Inspiration Blue Haze II"
+        "Inspiration Blue Haze II",
+        "Inspiration Neutral"
     ],
     "contributes": {
         "themes": [
@@ -91,6 +92,11 @@
                 "label": "Inspiration Blue Haze II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-blue-hazeII-color-theme.json"
+            },
+            {
+                "label": "Inspiration Neutral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Inspiration-blue&black-color-theme.json"
             }
         ]
     },
