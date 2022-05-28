@@ -24,7 +24,11 @@
         "Inspiration Yellow",
         "Inspiration Blue Haze",
         "Inspiration Blue Haze II",
-        "Inspiration Neutral"
+        "Inspiration Neutral",
+        "Inspiration Dark",
+        "Inspiration DarkII",
+        "Inspiration DarkIII",
+        "Inspiration DarkIV"
     ],
     "contributes": {
         "themes": [
@@ -74,11 +78,6 @@
                 "path": "./themes/PinkSpace-color-theme.json"
             },
             {
-                "label": "Inspiration Blue Kingdom",
-                "uiTheme": "vs",
-                "path": "./themes/inspiration-blue-kingdom-theme.json"
-            },
-            {
                 "label": "Inspiration Yellow Shade",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-yellow-shade-color-theme.json"
@@ -97,6 +96,26 @@
                 "label": "Inspiration Neutral",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Inspiration-blue&black-color-theme.json"
+            },
+            {
+                "label": "Inspiration Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-dark-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkII-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkIII-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkIV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkIV-color-theme.json"
             }
         ]
     },
