@@ -17,7 +17,7 @@
     "tab.hoverBackground": "#363636",
     "tab.activeBorder": "#121117",
     "tab.activeForeground": "#fff",
-    "tab.activeBorderTop": "#3dc9b8", //24f005
+    "tab.activeBorderTop": "#f08a29", //24f005
     "tab.border": "#262626",
     "activityBar.background": "#121117",
     "titleBar.activeBackground": "#262626",
