@@ -1,8 +1,17 @@
 # Inspiration
 
-New Theme
-## Inspiration Neutral
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/Inspiration-Neutral.png?raw=true)
+New Themes
+## Inspiration Dark
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-dark.png?raw=true)
+
+## Inspiration Dark II
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkII.png?raw=true)
+
+## Inspiration Dark III
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIII.png?raw=true)
+
+## Inspiration Dark IV
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIV.png?raw=true)
 
 ## Inspiration
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration.png?raw=true)
@@ -38,3 +47,6 @@ New Theme
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-blue-haze.png?raw=true)
 #
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-blue-hazeII.png?raw=true)
+
+## Inspiration Neutral
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/Inspiration-Neutral.png?raw=true)
