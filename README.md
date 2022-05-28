@@ -50,3 +50,29 @@ New Themes
 
 ## Inspiration Neutral
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/Inspiration-Neutral.png?raw=true)
+
+---
+**Fonts:** 
+
+  * Comic Mono - https://dtinth.github.io/comic-mono-font/
+
+  * JetBrains Mono - https://www.jetbrains.com/lp/mono/
+
+**Icons:** Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
+
+---
+More Themes
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.only-dark-theme
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
