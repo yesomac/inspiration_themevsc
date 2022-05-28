@@ -30,7 +30,8 @@
         "Inspiration DarkIII",
         "Inspiration DarkIV",
         "Inspiration DarkV",
-        "Inspiration DarkVI"
+        "Inspiration DarkVI",
+        "Inspiration DarkVII"
     ],
     "contributes": {
         "themes": [
@@ -128,6 +129,11 @@
                 "label": "Inspiration DarkVI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-darkVI-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkVII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkVII-color-theme.json"
             }
         ]
     },
