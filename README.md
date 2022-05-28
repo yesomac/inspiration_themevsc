@@ -13,6 +13,17 @@ New Themes
 ## Inspiration Dark IV
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIV.png?raw=true)
 
+## Inspiration Dark V
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkV.png?raw=true)
+
+## Inspiration Dark VI
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVI.png?raw=true)
+
+## Inspiration Dark VI
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVII.png?raw=true)
+
+---
+
 ## Inspiration
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration.png?raw=true)
 
