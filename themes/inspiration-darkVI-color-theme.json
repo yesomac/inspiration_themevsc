@@ -199,7 +199,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#dcdccd"
+        "foreground": "#a0cdf7"//f7f7a0
       }
     },
     {
@@ -223,7 +223,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#cfb989",
+        "foreground": "#43c4b5",
         "fontStyle": "italic"
       }
     },
@@ -259,7 +259,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ff2868",
+        "foreground": "#ffea28",
         "fontStyle": "italic"
       }
     },
@@ -275,7 +275,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#e2d39f",
+        "foreground": "#b1d4cb",
         "fontStyle": "italic"
       }
     },

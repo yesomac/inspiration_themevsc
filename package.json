@@ -2,7 +2,7 @@
     "name": "inspiration",
     "displayName": "inspiration",
     "description": "",
-    "version": "0.0.15",
+    "version": "0.0.16",
     "engines": {
         "vscode": "^1.63.0"
     },

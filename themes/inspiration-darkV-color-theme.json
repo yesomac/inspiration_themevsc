@@ -10,7 +10,7 @@
     "statusBar.background": "#19253f",
     "statusBar.noFolderBackground": "#19253f",
     "statusBar.debuggingBackground": "#0e1321",
-    "sideBarSectionHeader.background": "#0b1327",
+    "sideBarSectionHeader.background": "#0e1321",
     "sideBarSectionHeader.foreground": "#ddd",
     "tab.activeBackground": "#19253f",
     "tab.inactiveBackground": "#0e1321",
@@ -19,7 +19,7 @@
     "tab.activeForeground": "#fff",
     "tab.activeBorderTop": "#fff", //24f005
     "tab.border": "#0e1321",
-    "activityBar.background": "#19253f",
+    "activityBar.background": "#0e1321",
     "titleBar.activeBackground": "#0e1321",
     "editorGroupHeader.tabsBackground": "#0e1321",
     "editor.selectionBackground": "#0e1321e1",
@@ -102,7 +102,7 @@
     "editor.rangeHighlightBackground": "#0e1321",
     "editor.rangeHighlightBorder": "#9b9b9bc2",
     "editor.selectionHighlightBackground": "#6f6df098",//
-    "editor.wordHighlightBackground": "#010a24",
+    "editor.wordHighlightBackground": "#0733b8d3",
     "editor.wordHighlightStrongBackground": "#0e1321",
     "editor.wordHighlightStrongBorder": "#44035e",
     "editorBracketHighlight.foreground1": "#baec04",
@@ -117,7 +117,7 @@
     "editorHoverWidget.border": "#0e1321",
     "editorHoverWidget.foreground": "#fff",
     "editorOverviewRuler.border": "#19253f",
-    "editorSuggestWidget.border": "#0e1321",
+    "editorSuggestWidget.border": "#0b1d50",
     "editorSuggestWidget.focusHighlightForeground": "#989999",
     "editorSuggestWidget.foreground": "#fff",
     "editorSuggestWidget.highlightForeground": "#cdcdcd",
@@ -199,7 +199,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#6f6df0"
+        "foreground": "#aba9fa"
       }
     },
     {
@@ -223,7 +223,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#cfb989",
+        "foreground": "#dfd4be",
         "fontStyle": "italic"
       }
     },
@@ -259,7 +259,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ff2868",
+        "foreground": "#a0f1f7",
         "fontStyle": "italic"
       }
     },

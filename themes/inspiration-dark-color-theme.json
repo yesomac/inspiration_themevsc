@@ -224,7 +224,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#cfb989",
+        "foreground": "#dfd4be",
         "fontStyle": "italic"
       }
     },
@@ -260,7 +260,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ff2868",
+        "foreground": "#a0f1f7",
         "fontStyle": "italic"
       }
     },
