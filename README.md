@@ -22,6 +22,15 @@ New Themes
 ## Inspiration Dark VI
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVII.png?raw=true)
 
+## Inspiration Dark VIII
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVIII.png?raw=true)
+
+## Inspiration Dark XI
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkXI.png?raw=true)
+
+## Inspiration Dark X
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkX.png?raw=true)
+
 ---
 
 ## Inspiration
