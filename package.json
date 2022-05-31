@@ -31,7 +31,10 @@
         "Inspiration DarkIV",
         "Inspiration DarkV",
         "Inspiration DarkVI",
-        "Inspiration DarkVII"
+        "Inspiration DarkVII",
+        "Inspiration DarkVIII",
+        "Inspiration DarkIX",
+        "Inspiration DarkX"
     ],
     "contributes": {
         "themes": [
@@ -134,6 +137,21 @@
                 "label": "Inspiration DarkVII",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-darkVII-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkVIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkVIII-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkIX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkIX-color-theme.json"
+            },
+            {
+                "label": "Inspiration DarkX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-darkX-color-theme.json"
             }
         ]
     },
