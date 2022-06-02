@@ -96,3 +96,5 @@ More Themes
 * https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
 
 * https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
+
+---
