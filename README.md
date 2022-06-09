@@ -1,36 +1,14 @@
 # Inspiration
 
 New Themes
-## Inspiration Dark
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-dark.png?raw=true)
+## Inspiration Blue Sober
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/img/inspiration-blue-sober.png?raw=true)
 
-## Inspiration Dark II
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkII.png?raw=true)
+## Inspiration Blue Sober II
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/img/inspiration-blue-soberII.png?raw=true)
 
-## Inspiration Dark III
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIII.png?raw=true)
-
-## Inspiration Dark IV
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIV.png?raw=true)
-
-## Inspiration Dark V
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkV.png?raw=true)
-
-## Inspiration Dark VI
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVI.png?raw=true)
-
-## Inspiration Dark VI
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVII.png?raw=true)
-
-## Inspiration Dark VIII
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVIII.png?raw=true)
-
-## Inspiration Dark XI
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkXI.png?raw=true)
-
-## Inspiration Dark X
-![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkX.png?raw=true)
-
+## Inspiration Blue Sober III
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/img/inspiration-blue-soberIII.png?raw=true)
 ---
 
 ## Inspiration
@@ -70,6 +48,37 @@ New Themes
 
 ## Inspiration Neutral
 ![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/Inspiration-Neutral.png?raw=true)
+
+## Inspiration Dark
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-dark.png?raw=true)
+
+## Inspiration Dark II
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkII.png?raw=true)
+
+## Inspiration Dark III
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIII.png?raw=true)
+
+## Inspiration Dark IV
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkIV.png?raw=true)
+
+## Inspiration Dark V
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkV.png?raw=true)
+
+## Inspiration Dark VI
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVI.png?raw=true)
+
+## Inspiration Dark VI
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVII.png?raw=true)
+
+## Inspiration Dark VIII
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkVIII.png?raw=true)
+
+## Inspiration Dark XI
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkXI.png?raw=true)
+
+## Inspiration Dark X
+![This is an image](https://github.com/yesomac/inspiration_themevsc/blob/main/inspiration-darkX.png?raw=true)
+
 
 ---
 **Fonts:** 
