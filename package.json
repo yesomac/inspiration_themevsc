@@ -34,7 +34,10 @@
         "Inspiration DarkVII",
         "Inspiration DarkVIII",
         "Inspiration DarkIX",
-        "Inspiration DarkX"
+        "Inspiration DarkX",
+        "Inspiration Blue Sober",
+        "Inspiration Blue Sober II",
+        "Inspiration Blue Sober III"
     ],
     "contributes": {
         "themes": [
@@ -152,6 +155,21 @@
                 "label": "Inspiration DarkX",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-darkX-color-theme.json"
+            },
+            {
+                "label": "Inspiration Blue Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-bluesober-color-theme.json"
+            },
+            {
+                "label": "Inspiration Blue Sober II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-bluesoberII-color-theme.json"
+            },
+            {
+                "label": "Inspiration Blue Sober III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-bluesoberIII-color-theme.json"
             }
         ]
     },
