@@ -37,7 +37,8 @@
         "Inspiration DarkX",
         "Inspiration Blue Sober",
         "Inspiration Blue Sober II",
-        "Inspiration Blue Sober III"
+        "Inspiration Blue Sober III",
+        "Inspiration Blue Sober IV"
     ],
     "contributes": {
         "themes": [
@@ -70,6 +71,11 @@
                 "label": "Inspiration-Morita",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Inspiration-morita-color-theme.json"
+            },
+            {
+                "label": "Inspiration-Morita II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Inspiration-morita-II-color-theme.json"
             },
             {
                 "label": "Inspiration-WhiteSpace",
