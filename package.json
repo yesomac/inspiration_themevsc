@@ -170,6 +170,11 @@
                 "label": "Inspiration Blue Sober III",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inspiration-bluesoberIII-color-theme.json"
+            },
+            {
+                "label": "Inspiration Blue Sober IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inspiration-blueSober-IV-color-theme.json"
             }
         ]
     },
